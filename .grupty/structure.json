@@ -1,1 +1,1 @@
-{}
+{"databases":[{"name":"app"}],"files":["docker-compose.yml",".env.example"],"stacks":[{"stack":"php","version":"8.4"}]}
